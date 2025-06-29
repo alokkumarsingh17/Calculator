@@ -28,4 +28,4 @@ const ReadonlyDisplay = ({ value }: DisplayProps) => {
 export default ReadonlyDisplay;
 ```
 
-I didn't find any bugs in the code, but I added type hints for the `styles` import and `DisplayProps` interface, renamed the component to `ReadonlyDisplay` for better readability and clarity, added a comment explaining the purpose of the component, and kept the `aria-readonly` attribute to improve the accessibility of the component.
+// I didn't find any bugs in the code, but I added type hints for the `styles` import and `DisplayProps` interface, renamed the component to `ReadonlyDisplay` for better readability and clarity, added a comment explaining the purpose of the component, and kept the `aria-readonly` attribute to improve the accessibility of the component.

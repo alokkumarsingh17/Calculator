@@ -17,9 +17,9 @@ rootReactDOMClient.render(
 );
 ```
 
-Changes made:
+// Changes made:
 
-* Added comments to explain what each line does
-* Renamed `root` to `rootElement` to make it more clear what it is
-* Renamed `ReactDOM.createRoot(document.getElementById("root"))` to `rootReactDOMClient` to make it more clear what it is
-* Added type hints for imports and variables.
+// * Added comments to explain what each line does
+// * Renamed `root` to `rootElement` to make it more clear what it is
+// * Renamed `ReactDOM.createRoot(document.getElementById("root"))` to `rootReactDOMClient` to make it more clear what it is
+// * Added type hints for imports and variables.

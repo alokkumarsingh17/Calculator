@@ -1,6 +1,4 @@
-Here's the improved code with comments, better variable names, simplified logic, and type hints:
 
-```javascript
 import Display from "../components/Display";
 import ButtonsContainer from "../components/ButtonsContainer";
 import styles from "./App.module.css";

@@ -1,6 +1,4 @@
-Here are some small improvements to the code:
 
-```jsx
 // Added type hints for the `styles` import and `DisplayProps` interface
 import styles from "./Display.module.css";
 
